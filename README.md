@@ -20,6 +20,22 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+- Instagram
+1. Archiving posts and being able to undo it
+2. Liking stories
+- X
+1. Range in topics
+2. Customized feed
+- Pi Game
+1. Consistent results
+2. Catchy purpose while remaining simple
+- Snapchat
+1. Hold memories forever
+2. Unsending messages
+
+I would love to create an app that could teach music theory to younger audiences. It would be very interactive and open-ended enough to stress the freedom that may come from understanding the functions of musical elements. By the end, a song could be created...perhaps after the lesson, the user is taken into a "musical playground" where these songs can interact with each other.
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
