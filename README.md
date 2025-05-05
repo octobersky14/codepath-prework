@@ -12,12 +12,14 @@ The following **required** functionality is completed:
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/c924f18c1a314cc59f9588557dfb65f8">
+    </a>
+    <a href="https://www.loom.com/share/c924f18c1a314cc59f9588557dfb65f8">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c924f18c1a314cc59f9588557dfb65f8-a48ce484c78423ae-full-play.gif">
+    </a>
+  </div>
+  
 ## App Brainstorming (Step 4)
 
 - Instagram
